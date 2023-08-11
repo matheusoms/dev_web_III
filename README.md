@@ -1,1 +1,3 @@
-# dev_web_III_python
+# Repositório de Python
+
+Destinado ao desenvolvimento de exercícios em Python e DJango
